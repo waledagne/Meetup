@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Meet up
 
 ## Project setup
